@@ -18,14 +18,14 @@
    which resulted a 100% fail raten for that amount. Having more sample sizes in that category would make the graph more reliable.
     
   ## 3. Results
-     Conclusion based on outcomes on date; We can conclude that plays that lauched on May and June are most likely to suceed therefore it is highly recommended
-     to launch a play during these months. The month of May has the highest number of successful plays but it also has the most number of failed plays
-     which is 52/166. Plays launched on October are most likely to fail.
+   Conclusion based on outcomes on date; We can conclude that plays that lauched on May and June are most likely to suceed therefore it is highly  
+   recommended to launch a play during these months. The month of May has the highest number of successful plays but it also has the most number of failed 
+   plays which is 52/166. Plays launched on October are most likely to fail.
      
-     Conclusion based on outcomes based on their goals; We can conclude that plays that has goals less than 1000 has a 76% success rate while plays that
-     goals are 25000 and more have a 80%-100% fail rate.
-      
-      Limitations. This visualization is only based on the subcategory, Plays so it may not apply if you are researching about the subcategory Theater. It is 
-      possible to narrow to study down to a region to get more accurate results
-      Other possible graphs that can be recommended are Bar Graphs especially when analyzing about the goal. It will give better visualization of the ratio
-      of successful, failed and canceled for each goal amount.
+   Conclusion based on outcomes based on their goals; We can conclude that plays that has goals less than 1000 has a 76% success rate while plays that
+   goals are 25000 and more have a 80%-100% fail rate.
+   
+   Limitations : This visualization is only based on the subcategory, Plays so it may not apply if you are researching about the subcategory Theater. It is 
+   possible to narrow to study down to a region to get more accurate results
+   Other possible graphs that can be recommended are Bar Graphs especially when analyzing about the goal. It will give better visualization of the ratio
+   of successful, failed and canceled for each goal amount.
